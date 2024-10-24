@@ -19,12 +19,10 @@ Hello! Welcome to my README file! I am Tan Kee Hun, a year one student studying 
 ## (CORRECT THIS) What you will find here:
 Here you three Jupyter Notebooks for terminal, python and github notes. They will include the following topics:
 
-- Operating Systems and file systems
-- Terminal shells (e.g. the `bash` shell on Linux)
-- The different data file formats
+- Terminal Basic Commandds
 - Python essentials (with some code demonstrations)
 - Python tricks for dealing with files
 - Text formatting using Markdown
-- Jupyter Notebooks
+- Github Notes on how to sync and upload
 
 and other miscellaneous notes on terminal/python/pandas!
